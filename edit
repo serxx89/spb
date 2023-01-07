@@ -6,6 +6,17 @@ acestream://5c668adaf86ed6af2488e28d9f3a4e3b0e909664
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mll.png" group-title="La Liga" tvg-id="M+ LaLiga HD", [ ESP] #La Liga - 1080 serXx2
 acestream://ed2a15319345fb0739590faf88d8be4cb1663bf3
 
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mll.png" group-title="La Liga" tvg-id="M+ LaLiga HD", [ ESP] #nosequecanalsera - serXx3
+acestream://ed2a15319345fb0739590faf88d8be4cb1663bf3
+
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mll.png" group-title="La Liga" tvg-id="M+ LaLiga HD", [ ESP] #nosequecanalsera - serXx4
+acestream://0b01aa547ffe11ce2042bfe443abafb3ea17e5ff
+
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mll.png" group-title="La Liga" tvg-id="M+ LaLiga HD", [ ESP] #nosequecanalsera - serXx5
+acestream://05b9cb49947d3b78bbc66671c6e16ba0ae3b60b6
+
+
+
 
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/tve1.png" group-title="Varios" tvg-id="La 1 HD", [ ESP] La 1 
 acestream://fd0a3f8874ba9bb0516b1e2b978827fdd6661842
