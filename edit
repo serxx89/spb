@@ -1,5 +1,8 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/dracohe/CARLOS/master/guide_IPTV.xml"
 
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mll.png" group-title="La Liga" tvg-id="M+ LaLiga HD", [ ESP] La Liga - 1080 (Opcion 1)
+acestream://5c668adaf86ed6af2488e28d9f3a4e3b0e909664
+
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/tve1.png" group-title="Varios" tvg-id="La 1 HD", [ ESP] La 1 
 acestream://fd0a3f8874ba9bb0516b1e2b978827fdd6661842
 
